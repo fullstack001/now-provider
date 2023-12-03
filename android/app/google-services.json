@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "604353431757",
+    "project_id": "farenow-e023a",
+    "storage_bucket": "farenow-e023a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604353431757:android:d7bf910a65ade476e28184",
+        "android_client_info": {
+          "package_name": "com.app.farenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604353431757-f62ccv9i13p01ib3gg7r0le7fsec7q93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "88a32b3b1b0e26a983bd3eafd7959ee4be6e03c5"
+          }
+        },
+        {
+          "client_id": "604353431757-f8m2l7sc73h1q923fa5nisb38262idgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "950c415e05a7723dbd2ff374e3fdc18ff5215492"
+          }
+        },
+        {
+          "client_id": "604353431757-uveuln885fhmepeg7m0opnt2sj450t2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.farenow",
+            "certificate_hash": "f8e3b40fa60bb879de5634c9006720c2e416b8dc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuK_Hm9HR0G366wB_LKdF-aHzm7eMJRS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604353431757-0oee6ensc72fub16ncl277fnpaccqubr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604353431757-gh60424qp908g4sv6mic5e5bqj2l2db5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.farenowprovider",
+                "app_store_id": "1638701698"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604353431757:android:eedde3a03fc356d8e28184",
+        "android_client_info": {
+          "package_name": "com.farenow.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604353431757-d5rsbmmq71299h45f1918so0ch2j2upb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farenow.provider",
+            "certificate_hash": "88a32b3b1b0e26a983bd3eafd7959ee4be6e03c5"
+          }
+        },
+        {
+          "client_id": "604353431757-lf9r8dkbecs23vep1h2pojk059jqrilh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farenow.provider",
+            "certificate_hash": "950c415e05a7723dbd2ff374e3fdc18ff5215492"
+          }
+        },
+        {
+          "client_id": "604353431757-r8enrudgo4d96n2rb1in90unti7qd4kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farenow.provider",
+            "certificate_hash": "f8e3b40fa60bb879de5634c9006720c2e416b8dc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuK_Hm9HR0G366wB_LKdF-aHzm7eMJRS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604353431757-0oee6ensc72fub16ncl277fnpaccqubr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "604353431757-gh60424qp908g4sv6mic5e5bqj2l2db5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.farenowprovider",
+                "app_store_id": "1638701698"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
